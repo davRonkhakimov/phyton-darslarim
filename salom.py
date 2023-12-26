@@ -5,4 +5,5 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("hello word")
+print("bye word")
+print("nima gap")
